@@ -1,0 +1,68 @@
+/*!
+ * ActivePresenter HTML5 Output File
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com/activepresenter/
+ * Version: 7.5.13
+ * Date: 2020.03.03
+ */
+#Je39qIjj .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#Je39qIjj p {
+	margin: 0;
+}
+#Je39qIjj ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+@font-face{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Arial'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'Caladea';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Caladea'),
+         url('resources/font_1.woff');
+}
+@font-face{
+    font-family: 'Caladea';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Caladea Bold'),
+         url('resources/font_2.woff');
+}
+@font-face{
+    font-family: 'Tahoma';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Tahoma'),
+         url('resources/font_3.woff');
+}
+@font-face{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Times New Roman'),
+         url('resources/font_4.woff');
+}
+@font-face{
+    font-family: 'VAGRounded Lt';
+    font-style: normal;
+    font-weight: 400;
+    src: local('VAGRounded Lt'),
+         url('resources/font_5.woff');
+}
+@font-face{
+    font-family: 'VagLight';
+    font-style: normal;
+    font-weight: 400;
+    src: local('VagLight'),
+         url('resources/font_6.woff');
+}
+
